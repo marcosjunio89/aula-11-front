@@ -20,6 +20,24 @@ header{
     top: 17px;
 }
 
+.pizza{
+    color: #39b24a;
+    font-family: 'roboto', sans-serif;
+    font-style: normal;
+}
+
+.E{
+    color: #F3F3F3;
+    font-family: 'roboto', sans-serif;
+    font-style: normal;
+}
+
+.front{
+    color: red;
+    font-family: 'roboto', sans-serif;
+    font-style: normal;
+}
+
 .menu1{
     color: #F3F3F3;
     position: absolute;
@@ -40,7 +58,10 @@ section{
     width: 1000px;
     height: 400px;
     left: 20px;
-    top: 140px;
+    top: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
 .delivery{
