@@ -57,7 +57,7 @@ section{
     position: absolute;
     width: 1000px;
     height: 400px;
-    left: 20px;
+    left: 300px;
     top: 150px;
     display: flex;
     align-items: center;
@@ -166,5 +166,5 @@ footer{
     left: 100px;
     font-family: 'roboto', sans-serif;
     font-style: normal;
-    
+
 }
